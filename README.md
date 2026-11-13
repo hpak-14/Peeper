@@ -5,3 +5,5 @@ A COM port terminal feature is also available.
 The Monitor feature requires the USBPcap driver. If it is not installed on your PC, the application will offer to install it.
 
 Press Esc to return to the previous screen. Press Esc on the mode selection screen to close the application.
+
+v1.1 - The USBPcap installer is embedded in the EXE file.
